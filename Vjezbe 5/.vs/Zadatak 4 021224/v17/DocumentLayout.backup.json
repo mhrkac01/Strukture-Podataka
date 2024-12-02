@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A740EE38-EB2C-4924-B5FE-A0BD5BDC6388}|Zadatak 4 021224\\Zadatak 4 021224.vcxproj|C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A740EE38-EB2C-4924-B5FE-A0BD5BDC6388}|Zadatak 4 021224\\Zadatak 4 021224.vcxproj|solutionrelative:Zadatak 4 021224\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A740EE38-EB2C-4924-B5FE-A0BD5BDC6388}|Zadatak 4 021224\\Zadatak 4 021224.vcxproj|C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\postfix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A740EE38-EB2C-4924-B5FE-A0BD5BDC6388}|Zadatak 4 021224\\Zadatak 4 021224.vcxproj|solutionrelative:Zadatak 4 021224\\postfix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "postfix.txt",
+              "DocumentMoniker": "C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\postfix.txt",
+              "RelativeDocumentMoniker": "Zadatak 4 021224\\postfix.txt",
+              "ToolTip": "C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\postfix.txt",
+              "RelativeToolTip": "Zadatak 4 021224\\postfix.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-02T11:12:04.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\Source.cpp",
+              "RelativeDocumentMoniker": "Zadatak 4 021224\\Source.cpp",
+              "ToolTip": "C:\\Users\\MatejHrka\u0107\\Desktop\\Zadatak 4 021224\\Zadatak 4 021224\\Source.cpp",
+              "RelativeToolTip": "Zadatak 4 021224\\Source.cpp",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwGoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T11:11:53.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
